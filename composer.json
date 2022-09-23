@@ -1,0 +1,9 @@
+{
+    "require": {
+        "assetic/framework": "^3.0",
+        "mrclay/minify": "<2.3",
+        "lmammino/jsmin4assetic": "^1.0",
+        "wikimedia/minify": "^2.3",
+        "meenie/javascript-packer": "^1.1"
+    }
+}
